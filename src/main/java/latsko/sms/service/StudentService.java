@@ -7,4 +7,5 @@ import java.util.List;
 
 public interface StudentService {
     List<StudentDTO> getAllStudents();
+    void saveStudent(StudentDTO studentDTO);
 }
