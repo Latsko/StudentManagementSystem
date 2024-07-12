@@ -3,7 +3,7 @@
 ## Overview
 ### This repository contains simple prototype of Student Management System using Spring Framework flow and Bootstrap template for front-end. 
 It provides tools for viewing, creating, removal and updating data.
-It uses Thymeleaf for frong-end.
+It uses Thymeleaf for front-end.
 
 ## Technologies Used
 <div align="center">
